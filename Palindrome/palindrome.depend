@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1599170063 source:/home/noah/Documents/palindrome/main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<time.h>
-
