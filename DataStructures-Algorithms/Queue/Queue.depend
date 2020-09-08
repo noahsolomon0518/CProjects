@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599525371 source:/home/noah/Documents/Queue/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
